@@ -4,7 +4,7 @@ aws:
   region: us-east-1
 
 lightsail:
-  instance_name: marketplace-app-1766512629
+  instance_name: marketplace-app-1766512910
   static_ip: ""
   
   # Instance size configuration (optional)
